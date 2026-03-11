@@ -100,6 +100,6 @@ This project was built to **strengthen my understanding of Python OOP and system
 
 ## 👨‍💻 Author
 
-**Nithin Gowda**
+**Nithin K P**
 Computer Science Engineering Student
 Currently learning Python, Data Structures, and Software Development.
